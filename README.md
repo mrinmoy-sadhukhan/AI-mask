@@ -1,13 +1,10 @@
 # Hybrid Facemask Detection: Integrating Deep Learning and Handcrafted Features for Enhanced Accuracy
----
-This is the official implementation of our paper.
+---This is the official implementation of our paper.
 ## Introduction
----
-Mask is essential things in our daily life in the psread of different aibrone diseases. But some people do not maitain this principle for this to stop them this project is build. It can accurately detect the people if they wear mask or not or in with incorrect mask type. Here we use google colaborty to compile the project. "ai-mask-detect.ipynb" is used to show all model and training details in an ineractive manner.
+---Mask is essential things in our daily life in the psread of different aibrone diseases. But some people do not maitain this principle for this to stop them this project is build. It can accurately detect the people if they wear mask or not or in with incorrect mask type. Here we use google colaborty to compile the project. "ai-mask-detect.ipynb" is used to show all model and training details in an ineractive manner.
 ### Architetcure Of CNN
----
-![architetcure](face mask1.jpg)
-![legends](face mask.jpg)
+---![architetcure](face%20mask1.jpg)
+![legends](face%20mask.jpg)
 ## Dataset Link:
 ### Links for Dataset Used for train and test of the model.
 ```
